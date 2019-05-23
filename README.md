@@ -2,10 +2,6 @@
 
 **An Advanced Example PhoneGap App Built With Alpha Anywhere.** 
 
-
-
-
-
 ## Related Videos
 
 * [Punch List App Overview Video](https://youtu.be/xh2aoR-UFzg)
