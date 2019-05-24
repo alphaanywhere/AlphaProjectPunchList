@@ -1,3 +1,5 @@
+**Works with Git in Alpha Anywhere!** (Requires version 4.6 or newer)
+
 # ProjectPunchList App
 
 **An Advanced Example PhoneGap App Built With Alpha Anywhere.** 
